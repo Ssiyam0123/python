@@ -1,0 +1,15 @@
+{
+    "printWidth": 100,
+    "tabWidth": 4,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "overrides": [
+        {
+            "files": "*.py",
+            "options": {
+                "parser": "python",
+                "singleQuote": false
+            }
+        }
+    ]
+}
