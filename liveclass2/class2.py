@@ -1,9 +1,17 @@
-love = ["mia", "dany", "sunny leone", "ava adams"]
+# love = ["mia", "dany", "sunny leone", "ava adams"]
 
-printOut = len(love)
+# printOut = len(love)
 
-#print(printOut)
+# #print(printOut)
 
 
-for i in range(len(love)):
-    print(love[i])
+# for i in range(len(love)):
+#     print(love[i])
+
+
+
+for i in range(6):
+    if i == 4 :
+        continue
+    
+    print(i)
