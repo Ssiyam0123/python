@@ -73,5 +73,46 @@ diff_set = set1.difference(set2)
 name = "siyam"
 age = 22
 
-print(f"my name is {name} and i am {age} years old")
+# print(f"my name is {name} and i am {age} years old")
+
+# students = [
+    
+#     ("Alice", 3.75),
+#     ("bob",3.60),
+#     ("charlie",3.90)
+    
+#     ]
+
+
+# for name,cgpa in students :
+#     print(f"Name : {name}, cgpa : {cgpa}")
+
+
+my_LIst = [1,2,3,4]
+
+# my_LIst.append([4,5])
+
+# print(my_LIst)
+
+# prblem2 = range(2,10,2)
+# print(prblem2)
+
+my_LIst.insert(2,5)
+
+# my_LIst.remove(1)
+# print(my_LIst)
+
+
+
+
+
+
+my_dict = {"a":1, "b":2}
+
+print(my_dict.get('c',3))
+
+
+dict.keys()
+
+
 
