@@ -1,0 +1,11 @@
+Patient ID,Age,Gender,Date of Injury,Injury Cause,Injury Level,ASIA Impairment Scale,Associated Injuries,Treatment Received,Rehabilitation Duration (weeks),Outcome (6 months)
+PID-1001,32,Male,2023-05-12,RTA (Road Traffic Accident),C5-C6,A,Head injury,Spinal fusion surgery,24,Partial recovery
+PID-1002,45,Female,2023-02-28,Fall from height,T12-L1,B,None,Conservative management,12,Good recovery
+PID-1003,19,Male,2023-07-15,Sports injury,L1-L2,D,None,Decompression surgery,8,Full recovery
+PID-1004,67,Female,2023-01-05,Slip and fall,C4,C,None,Spinal stabilization,36,No improvement
+PID-1005,28,Male,2023-09-22,RTA (Motorcycle),T6,A,Rib fractures,Spinal cord decompression,26,Wheelchair dependent
+PID-1006,50,Female,2023-04-18,Workplace accident,L3-L4,B,Pelvic fracture,Internal fixation,14,Ambulatory with aid
+PID-1007,22,Male,2023-11-03,Diving accident,C7,C,Head injury,Halo vest immobilization,30,Partial recovery
+PID-1008,38,Female,2023-08-09,Assault,T10-T11,D,None,Physical therapy only,6,Full recovery
+PID-1009,55,Male,2023-03-14,Industrial accident,C6-C7,A,Multiple trauma,Spinal cord stimulator implant,40,Minimal improvement
+PID-1010,29,Female,2023-10-31,RTA (Pedestrian),L2-L3,B,Lower limb fractures,Laminectomy,18,Ambulatory with pain

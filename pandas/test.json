@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "title": "Bangladesh Road Accident Report - 2023",
+    "source": "Bangladesh Road Transport Authority (BRTA)",
+    "generated_on": "2023-11-15",
+    "records": 5,
+    "disclaimer": "This is fictional data for demonstration purposes only"
+  },
+  "accidents": [
+    {
+      "id": "ACC-2023-001",
+      "date": "2023-01-15",
+      "time": "08:45",
+      "location": {
+        "district": "Dhaka",
+        "upazila": "Mirpur",
+        "road": "Mirpur Road",
+        "coordinates": {
+          "lat": 23.8069,
+          "long": 90.3687
+        }
+      },
+      "vehicles_involved": [
+        {
+          "type": "bus",
+          "registration": "Dhaka Metro-Ga-11-9876"
+        },
+        {
+          "type": "private_car",
+          "registration": "Dhaka Metro-Kha-23-4567"
+        }
+      ],
+      "casualties": {
+        "fatalities": 3,
+        "injured": 12,
+        "severity": "high"
+      },
+      "cause": "bus lost control and collided with car",
+      "weather_conditions": "foggy"
+    },
+    {
+      "id": "ACC-2023-002",
+      "date": "2023-02-28",
+      "time": "22:30",
+      "location": {
+        "district": "Chittagong",
+        "upazila": "Patenga",
+        "road": "Chittagong-Cox's Bazar Highway",
+        "coordinates": {
+          "lat": 22.2500,
+          "long": 91.8167
+        }
+      },
+      "vehicles_involved": [
+        {
+          "type": "truck",
+          "registration": "Chittagong Metro-Cha-45-7890"
+        },
+        {
+          "type": "motorcycle",
+          "registration": "Chittagong Metro-U-67-1234"
+        }
+      ],
+      "casualties": {
+        "fatalities": 1,
+        "injured": 2,
+        "severity": "medium"
+      },
+      "cause": "motorcycle collided with truck while overtaking",
+      "weather_conditions": "clear"
+    },
+    {
+      "id": "ACC-2023-003",
+      "date": "2023-04-05",
+      "time": "16:20",
+      "location": {
+        "district": "Sylhet",
+        "upazila": "Beanibazar",
+        "road": "Sylhet-Sunamganj Highway",
+        "coordinates": {
+          "lat": 24.8998,
+          "long": 91.8714
+        }
+      },
+      "vehicles_involved": [
+        {
+          "type": "human_hauler",
+          "registration": "Sylhet Metro-Ja-34-5678"
+        },
+        {
+          "type": "pedestrian",
+          "registration": null
+        }
+      ],
+      "casualties": {
+        "fatalities": 1,
+        "injured": 0,
+        "severity": "low"
+      },
+      "cause": "human hauler hit pedestrian crossing the road",
+      "weather_conditions": "rainy"
+    },
+    {
+      "id": "ACC-2023-004",
+      "date": "2023-07-22",
+      "time": "11:15",
+      "location": {
+        "district": "Rajshahi",
+        "upazila": "Charghat",
+        "road": "N6 Highway",
+        "coordinates": {
+          "lat": 24.3667,
+          "long": 88.7833
+        }
+      },
+      "vehicles_involved": [
+        {
+          "type": "bus",
+          "registration": "Rajshahi Metro-Gha-56-2345"
+        },
+        {
+          "type": "rickshaw",
+          "registration": null
+        }
+      ],
+      "casualties": {
+        "fatalities": 0,
+        "injured": 4,
+        "severity": "medium"
+      },
+      "cause": "bus sideswiped rickshaw",
+      "weather_conditions": "sunny"
+    },
+    {
+      "id": "ACC-2023-005",
+      "date": "2023-09-30",
+      "time": "19:50",
+      "location": {
+        "district": "Khulna",
+        "upazila": "Dumuria",
+        "road": "Khulna-Jessore Road",
+        "coordinates": {
+          "lat": 22.8088,
+          "long": 89.4437
+        }
+      },
+      "vehicles_involved": [
+        {
+          "type": "truck",
+          "registration": "Khulna Metro-Cha-78-9012"
+        },
+        {
+          "type": "private_car",
+          "registration": "Dhaka Metro-Ka-12-3456"
+        },
+        {
+          "type": "motorcycle",
+          "registration": "Khulna Metro-U-90-6789"
+        }
+      ],
+      "casualties": {
+        "fatalities": 2,
+        "injured": 5,
+        "severity": "high"
+      },
+      "cause": "multi-vehicle collision due to brake failure of truck",
+      "weather_conditions": "night_time"
+    }
+  ],
+  "summary": {
+    "total_accidents": 5,
+    "total_fatalities": 7,
+    "total_injured": 23,
+    "most_common_cause": "collision",
+    "most_affected_district": "Dhaka"
+  }
+}
