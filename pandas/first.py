@@ -10,6 +10,6 @@ ages = pd.Series(si['Age'])
 
 # print(si.loc[si['Age']==32])
 
-print(si.shape)
+print(pd)
 
 
